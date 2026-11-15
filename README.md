@@ -1,10 +1,5 @@
 # 🧪 Manual QA Testing Practice: Web Authentication Module (Jira)
 
-![Testing Type](https://shields.io)
-![Tools](https://shields.io)
-![Environment](https://shields.io)
-![Status](https://shields.io)
-
 ## 📌 Project Overview
 This repository documents my hands-on **Manual Quality Assurance (QA)** practice focused on functional and negative testing for a web-based **User Authentication (Login) Module**. 
 
@@ -73,10 +68,9 @@ The primary objective of this project is to validate input handling, boundary co
 ---
 
 ## 📸 Jira Board & Execution Evidence
-*(Tip: Upload your Jira Kanban board and ticket screenshots into an `/images` folder in this repository and link them below)*
 
-* **Jira Kanban Board Overview:** `images/jira-board-overview.png`
-* **TC-001 Defect Documentation:** `images/tc-001-detail.png`
+* **Jira Kanban Board Overview:** `jira-board-overview.png`
+* **TC-001 Defect Documentation:** `tc-001-detail.png`
 
 ---
 
