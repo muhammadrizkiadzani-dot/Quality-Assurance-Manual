@@ -70,7 +70,7 @@ The primary objective of this project is to validate input handling, boundary co
 ## 📸 Jira Board & Execution Evidence
 
 * **Jira Kanban Board Overview:** `jira-board-overview.png`
-* **TC-001 Defect Documentation:** `tc-001-detail.png`
+* **TC-001 Defect Documentation:** `Tc-001-detail.png`
 
 ---
 
